@@ -1,0 +1,15 @@
+artifact_uri: file:///home/muqadas/my_mlflow_project/mlruns/0/6100d7a71ae04104b60018bbc1f4d37d/artifacts
+end_time: 1720901309652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6100d7a71ae04104b60018bbc1f4d37d
+run_name: incongruous-horse-73
+run_uuid: 6100d7a71ae04104b60018bbc1f4d37d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720901303338
+status: 3
+tags: []
+user_id: muqadas

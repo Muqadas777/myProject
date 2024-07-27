@@ -1,0 +1,15 @@
+artifact_uri: file:///home/muqadas/my_mlflow_project/mlruns/0/90cc8910effd49c7a8c252bec95500f7/artifacts
+end_time: 1720900936087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90cc8910effd49c7a8c252bec95500f7
+run_name: omniscient-auk-392
+run_uuid: 90cc8910effd49c7a8c252bec95500f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720900930481
+status: 3
+tags: []
+user_id: muqadas
